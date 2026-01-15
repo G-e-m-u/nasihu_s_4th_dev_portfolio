@@ -1,3 +1,5 @@
+link: https://g-e-m-u.github.io/nasihu_s_4th_dev_portfolio/
+
 This project implements a newspaper-style layout using CSS Grid, organizing content into named grid areas to control the structure of the page. 
 The <main> element is set to display: grid with three columns and multiple rows defined through grid-template-areas, allowing key sections like the header title, feature article, secondary article, cover images, and small articles to occupy specific positions on the page. 
 Each section is assigned a matching grid-area so the layout reflects a typical news layout with a full-width title, large featured content, supporting articles, and sidebar images placed precisely using grid names. 
