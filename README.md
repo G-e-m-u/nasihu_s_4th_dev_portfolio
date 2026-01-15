@@ -1,0 +1,5 @@
+This project implements a newspaper-style layout using CSS Grid, organizing content into named grid areas to control the structure of the page. 
+The <main> element is set to display: grid with three columns and multiple rows defined through grid-template-areas, allowing key sections like the header title, feature article, secondary article, cover images, and small articles to occupy specific positions on the page. 
+Each section is assigned a matching grid-area so the layout reflects a typical news layout with a full-width title, large featured content, supporting articles, and sidebar images placed precisely using grid names. 
+This approach makes the structure easy to understand and maintain, and separates layout concerns from content. The design also includes flexible image scaling and typographic styling using Google Fonts for readability and visual appeal. 
+Building with CSS Grid in this way gives you two-dimensional control of rows and columns, making the layout more predictable and adaptable than using floats or positioning alone.
